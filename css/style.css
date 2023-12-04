@@ -1,0 +1,32 @@
+
+body{
+    font: normal;
+    overflow-x: hidden;
+}
+nav{
+    float: left;
+    width: 100%;
+    background-color: cornflowerblue;
+}
+ul{
+    float: right;
+    height: 30px;
+    list-style-type: none;
+    padding: 10px;
+    
+    
+    
+}
+li{
+    float: left;
+}
+
+ul a{
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+
+}
+ul a:hover{
+    color: pink;
+}
